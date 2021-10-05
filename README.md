@@ -3,7 +3,7 @@
 My neovim dotfiles</h1>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0"> <img src="https://img.shields.io/github/license/samrath2007/nvim"> <img src="https://img.shields.io/tokei/lines/github/samrath2007/nvim?label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/samrath2007/nvim">
+  <img src="https://img.shields.io/badge/version-1.0.0--beta-green"> <img src="https://img.shields.io/github/license/samrath2007/nvim"> <img src="https://img.shields.io/tokei/lines/github/samrath2007/nvim?label=lines%20of%20code"> <img src="https://img.shields.io/github/languages/top/samrath2007/nvim">
   <img src="https://img.shields.io/github/repo-size/samrath2007/nvim">
 </p>
 <br>
@@ -39,8 +39,6 @@ nvim + "PackerInstall"
 [![Forkers repo roster for https://github.com/samrath2007/nvim](https://reporoster.com/forks/samrath2007/nvim)](https://github.com/https://github.com/samrath2007/nvim/network/members)
 
 <br>
-## Authors
-[samrath2007](https://github.com/samrath2007)
 
 ## License
 
