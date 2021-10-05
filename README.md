@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="product icon" />
-</p>
 <h1 align="center">nvim</h1>
 <h4 align="center">
 My neovim dotfiles</h1>
@@ -11,12 +8,7 @@ My neovim dotfiles</h1>
 </p>
 <br>
 
-![Doing something cool through my software. Check it out!](A cool gif here)
-
-3 Line Description
-
-**Note**: Bugs or early-project related notes.
-<br>
+![Doing something cool through my software. Check it out!](./assets/assets.gif)
 
 # :zap: Installation
 
@@ -28,30 +20,18 @@ Prerequisites: **Git**, **Language Dependencies**
 
 1. Clone the github repository using the Github CLI.
 ```sh
-git clone https://github.com/samrath2007/nvim
+git clone https://github.com/samrath2007/nvim ~/.config/nvim
 ```
 
 2. Change to the project directory.
 ```sh
-cd repo_name
+cd ~/.config/nvim
 ```
 
 3. Installation commands
 ```sh
+nvim + "PackerInstall"
 ```
-
-5. What you can do to verify successful installation.
-<br>
-
-## :test_tube: Testing
-
-First, make sure you [**Build From Source**](link to build from source tag).
-
-Run this command to run the tests for electric
-```sh
-command you can use to run project tests.
-```
-<br>
 
 ## :clap: Supporters
 [![Stargazers repo roster for https://github.com/samrath2007/nvim](https://reporoster.com/stars/samrath2007/nvim)](https://github.com/https://github.com/samrath2007/nvim/stargazers)
@@ -59,43 +39,9 @@ command you can use to run project tests.
 [![Forkers repo roster for https://github.com/samrath2007/nvim](https://reporoster.com/forks/samrath2007/nvim)](https://github.com/https://github.com/samrath2007/nvim/network/members)
 
 <br>
-
-## :hammer: Build Status
-## :hammer: Build Status
-| Feature                            | Build Status   |
-|------------------------------------|----------------|
-| Installation                       | ‚úÖ             |
-| Portable Installation              | ‚úÖ             |
-| Uninstallation                     | ‚úÖ             |
-| Update                             | ‚úÖ             |
-| Show                               | ‚úÖ             |
-| List                               | ‚úÖ             |
-| Search                             | ‚úÖ             |
-| Code Editor Extension Installation | ‚úÖ             |
-| Python Package Installation        | ‚úÖ             |
-| NodeJS Package Installation        | ‚úÖ             |
-| Configuration Management           | ‚úÖ             |
-| Cleanup                            | ‚úÖ             |
-| Tab Completion                     | ‚úÖ             |
-
-<br>
-
 ## Authors
-[samrath2007](https://github.com/samrath2007) - Role in the project.
-
-See also the list of [contributors](https://github.com/nvim/contributors) who contributed to this.
-
-Special thanks to:
-[SomeUser](https://www.github.com/linktotheirgithub) what they did.
-
-## Built With
-* [Name Of Technology](Link to Homepage)
-* [Name of library](Link to library)
-
-## Versioning
-
-We use [type of versioning](details about the versioning with a link) for versioning. For the versions available, see the [tags on this repository](https://github.com/nvim/tags). 
+[samrath2007](https://github.com/samrath2007)
 
 ## License
 
-This project is licensed under yourlicense - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the GNU General Public License v2 - see the [LICENSE](LICENSE) file for details.
